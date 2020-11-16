@@ -2,6 +2,7 @@ avocados
 salt
 pepper
 hot stuff
+cilantro
 
 - cut it
 - smoosh it
